@@ -1,10 +1,10 @@
-# Hello, I'm Kyle
+# Hello,
 <a href="https://www.linkedin.com/in/kyle-stanjones/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 [Brief Introduction]
 -->
-I am a current online student at WGU for a Bachelors in Cybersecurity. 
+Graduated with a B.S in Cybersecurity.
 
 ## Objective
 <!-- [Provide Objective]
